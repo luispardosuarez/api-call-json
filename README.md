@@ -2,7 +2,7 @@
 
 # API CALL JSONPlaceholder
 
-Welcome to the User Management App! This project is part of the Fullstack Bootcamp by Foundation F5.
+This project is part of the Fullstack Bootcamp by Foundation F5.
 
 ## Stacks Employed
 
@@ -23,5 +23,5 @@ To get started with the app, simply clone this repository to your local machine 
 2. Use the input field and button provided to enter a user ID and retrieve specific user details.
 3. Click on the "Get User" button to fetch and display the name and phone number of the user with the corresponding ID.
 
-Feel free to clone the repository and happy coding! 🖥️🛠️🐧
+Feel free to clone the repository and happy coding! 🖥️🛠️🐧🎉
 
